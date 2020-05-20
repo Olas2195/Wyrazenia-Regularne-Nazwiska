@@ -1,0 +1,5 @@
+[
+{"nazwisko_podwojne":"Marianowicz-Alba"}
+{"nazwisko_podwojne":"Dobrowicz-Biala"},
+{"nazwisko_podwojne":"Bialo-Czarne"},
+]
